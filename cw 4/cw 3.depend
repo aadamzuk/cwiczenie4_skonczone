@@ -181,3 +181,59 @@
 	<fstream>
 	<sstream>
 
+1510587522 source:d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\analizatorsygnalu.cpp
+	"analizatorsygnalu.hpp"
+	<iostream>
+	"syngall.hpp"
+	"sygnalloader.hpp"
+
+1510587478 d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\analizatorsygnalu.hpp
+	"syngall.hpp"
+	<iostream>
+
+1510589855 d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\syngall.hpp
+	<vector>
+	"probkaa.hpp"
+	<string>
+	"sygnal.hpp"
+
+1509985236 d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\probkaa.hpp
+	<iostream>
+
+1511192976 d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\sygnalloader.hpp
+	"syngall.hpp"
+	<string>
+
+1510587527 source:d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\main.cpp
+	<iostream>
+	"probkaa.hpp"
+	"syngall.hpp"
+	"sygnalloader.hpp"
+	"analizatorsygnalu.hpp"
+	"windows.h"
+
+1509376870 source:d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\probka.cpp
+	"probkaa.hpp"
+
+1510587541 source:d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\sygnal.cpp
+	"syngall.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1510587550 source:d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\sygnalloader.cpp
+	"sygnalloader.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1510589140 d:\adam_zuk\cwiczenie4 skonczone\cwiczenie4_skonczone\cw 4\sygnal.hpp
+	<iostream>
+	"windows.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+

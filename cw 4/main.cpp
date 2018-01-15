@@ -15,7 +15,7 @@ int main(int argc,char* argv[])
 
 string nazwa_pliku = argv[1];
 analizatorsygnalu a1;
-syngall s1;
+SygnalProbkowany s1;
 sygnalloader sl1;
 s1 = sl1.wczytajSygnal(nazwa_pliku);
 

@@ -7,11 +7,11 @@
 
 using namespace std;
 
-syngall sygnalloader::wczytajSygnal (std::string nazwaPliku)
+SygnalProbkowany sygnalloader::wczytajSygnal (std::string nazwaPliku)
 {
     ifstream plik (nazwaPliku);
     string line;
-    syngall sn;
+    SygnalProbkowany sn;
     while (getline(plik,line))
 {
     stringstream aa(line);
@@ -30,7 +30,7 @@ plik.close();
 return sn;
 }
 
-void sygnalloader::zapiszSygnal (syngall& sygnal, std::string nazwaPliku)
+void sygnalloader::zapiszSygnal (SygnalProbkowany& sygnal, std::string nazwaPliku)
 {
    ofstream plik (nazwaPliku);
 

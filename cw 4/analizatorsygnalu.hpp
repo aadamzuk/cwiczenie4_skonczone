@@ -6,11 +6,11 @@
 class analizatorsygnalu{
 AnalizatorSygnalu();
 public:
-double dlugosc( const syngall& sygnal);
-double minimum(const syngall& sygnal);
-double maksimum(const syngall& sygnal);
-double srednia(const syngall& sygnal);
-double calka(const syngall& sygnal);
+double dlugosc( const SygnalProbkowany& sygnal);
+double minimum(const SygnalProbkowany& sygnal);
+double maksimum(const SygnalProbkowany& sygnal);
+double srednia(const SygnalProbkowany& sygnal);
+double calka(const SygnalProbkowany& sygnal);
 };
 
 

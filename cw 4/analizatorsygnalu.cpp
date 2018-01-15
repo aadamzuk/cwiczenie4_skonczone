@@ -5,7 +5,7 @@
 
 using namespace std;
 
-double analizatorsygnalu::minimum (const syngall& sygnal)
+double analizatorsygnalu::minimum (const SygnalProbkowany& sygnal)
 {
     double min=10000;
     for (int i=0;i<sygnal.iloscProbek();i++)
@@ -15,7 +15,7 @@ double analizatorsygnalu::minimum (const syngall& sygnal)
         }
     }return min;
 }
-double analizatorsygnalu::maksimum (const syngall& sygnal)
+double analizatorsygnalu::maksimum (const SygnalProbkowany& sygnal)
 {
     double max=-10000;
     for (int i=0;i<sygnal.iloscProbek();i++)
@@ -27,7 +27,7 @@ double analizatorsygnalu::maksimum (const syngall& sygnal)
 }
 
 
-double analizatorsygnalu::dlugosc (const syngall& sygnal)
+double analizatorsygnalu::dlugosc (const SygnalProbkowany& sygnal)
 {double a=-100000;
 
 double u=100000;
@@ -52,7 +52,7 @@ d=a-u;
 return d;
 }
 
-double analizatorsygnalu::srednia (const syngall& sygnal)
+double analizatorsygnalu::srednia (const SygnalProbkowany& sygnal)
 { double o=0;
     for (int i=0;i<sygnal.iloscProbek();i++)
         { o=o+sygnal[i].x;  }
@@ -65,7 +65,7 @@ return o;
 
 }
 
-double analizatorsygnalu::calka(const syngall& sygnal)
+double analizatorsygnalu::calka(const SygnalProbkowany& sygnal)
 {
     double dt1, dpole1, calka;
     for (int i = 0; i <= (sygnal.iloscProbek()) -1; i++)

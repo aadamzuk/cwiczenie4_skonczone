@@ -8,8 +8,8 @@ class sygnalloader {
 
 public:
 sygnalloader(){}
-syngall wczytajSygnal (std::string nazwaPliku);
-void zapiszSygnal (syngall& sygnal, std::string nazwaPliku);
+SygnalProbkowany wypisz (std::string s);
+void zapiszSygnal (SygnalProbkowany& sygnal, std::string nazwaPliku);
 
 
 

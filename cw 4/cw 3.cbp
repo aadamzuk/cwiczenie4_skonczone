@@ -41,6 +41,7 @@
 		<Unit filename="probka.cpp" />
 		<Unit filename="probkaa.hpp" />
 		<Unit filename="sygnal.cpp" />
+		<Unit filename="sygnal.hpp" />
 		<Unit filename="sygnalloader.cpp" />
 		<Unit filename="sygnalloader.hpp" />
 		<Unit filename="syngall.hpp" />
