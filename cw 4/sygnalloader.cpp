@@ -1,7 +1,19 @@
+/**
+ * @file sygnalloader.cpp
+ * @author Adam Zuk
+ * @date 15-01-2018
+ *
+ * @brief Plik zrodlowy do klasy sygnalloader
+ *
+ * Funkcje, konstruktory i funkcje do do klasy sygnalloader
+ *
+ *
+ */
 #include "sygnalloader.hpp"
 #include <string>
 #include <iostream>
 #include <fstream>
+
 #include <sstream>
 
 

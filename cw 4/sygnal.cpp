@@ -1,3 +1,14 @@
+/**
+ * @file syngall.cpp
+ * @author Adam Zuk
+ * @date 15-01-2018
+ *
+ * @brief Plik zrodlowy do klasy SygnalProbkowany
+ *
+ * Funkcje, konstruktory i funkcje do do klasy SygnalProbkowany
+ *
+ *
+ */
 #include "syngall.hpp"
 #include <iostream>
 #include <fstream>

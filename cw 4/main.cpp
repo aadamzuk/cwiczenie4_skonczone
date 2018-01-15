@@ -1,3 +1,14 @@
+/**
+ * @file main.cpp
+ * @author Adam Zuk
+ * @date 15-01-2018
+ *
+ * @brief Cialo programu
+ *
+ * Wykonanie wszystkich funcji programu
+ *
+ *
+ */
 #include <iostream>
 #include "probkaa.hpp"
 #include "syngall.hpp"

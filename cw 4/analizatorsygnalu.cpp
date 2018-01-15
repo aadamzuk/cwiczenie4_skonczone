@@ -1,3 +1,14 @@
+/**
+ * @file analizatorsygnalu.cpp
+ * @author Adam Zuk
+ * @date 15-01-2018
+ *
+ * @brief Plik zrodlowy do klasy Probka
+ *
+ * Funkcje, konstruktory i funkcje do do klasy Probka
+ *
+ *
+ */
 #include "analizatorsygnalu.hpp"
 #include <iostream>
 #include "syngall.hpp"

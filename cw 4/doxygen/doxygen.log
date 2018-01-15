@@ -1,0 +1,9 @@
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/sygnal.cpp:2: warning: the name `syngall.cpp' supplied as the second argument in the \file statement is not an input file
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/sygnalloader.cpp:22: warning: documented symbol `SygnalProbkowany sygnalloader::wczytajSygnal' was not declared or defined.
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/syngall.hpp:7: warning: Unsupported xml/html tag <Probka> found
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/probkaa.hpp:27: warning: unexpected token in comment block while parsing the argument of command param
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/probkaa.hpp:48: warning: unexpected token in comment block while parsing the argument of command param
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/sygnalloader.hpp:24: warning: unexpected token in comment block while parsing the argument of command param
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/sygnalloader.hpp:32: warning: unexpected token in comment block while parsing the argument of command param
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/sygnalloader.hpp:40: warning: unexpected token in comment block while parsing the argument of command param
+D:/Adam_Zuk/cwiczenie4 skonczone/cwiczenie4_skonczone/cw 4/syngall.hpp:43: warning: unexpected token in comment block while parsing the argument of command param
